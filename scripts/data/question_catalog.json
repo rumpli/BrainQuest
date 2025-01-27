@@ -1,0 +1,2238 @@
+[
+  {
+    "name": "Informatik",
+    "description": "Fragen rund um Informatik.",
+    "questions": {
+      "easy": [
+        {
+          "question": "Was bedeutet die Abkürzung CPU in der Informatik?",
+          "info": "Die CPU ist das 'Gehirn' eines Computers und führt die Anweisungen eines Programms aus.",
+          "answers": [
+            {
+              "answer": "Central Processing Unit",
+              "correct": true
+            },
+            {
+              "answer": "Computer Processing Unit",
+              "correct": false
+            },
+            {
+              "answer": "Core Programming Unit",
+              "correct": false
+            },
+            {
+              "answer": "Central Programming Unit",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welches dieser Geräte ist ein Eingabegerät?",
+          "info": "Eingabegeräte werden verwendet, um Daten in einen Computer einzugeben.",
+          "answers": [
+            {
+              "answer": "Maus",
+              "correct": true
+            },
+            {
+              "answer": "Drucker",
+              "correct": false
+            },
+            {
+              "answer": "Monitor",
+              "correct": false
+            },
+            {
+              "answer": "Lautsprecher",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Zahlensystembasis wird im Binärsystem verwendet?",
+          "info": "Das Binärsystem ist ein Zahlensystem, das nur zwei Symbole verwendet: 0 und 1.",
+          "answers": [
+            {
+              "answer": "2",
+              "correct": true
+            },
+            {
+              "answer": "10",
+              "correct": false
+            },
+            {
+              "answer": "8",
+              "correct": false
+            },
+            {
+              "answer": "16",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Programmiersprache wird häufig verwendet, um Webseiten zu erstellen?",
+          "info": "HTML wird verwendet, um den Aufbau und die Struktur von Webseiten zu definieren.",
+          "answers": [
+            {
+              "answer": "HTML",
+              "correct": true
+            },
+            {
+              "answer": "Python",
+              "correct": false
+            },
+            {
+              "answer": "C++",
+              "correct": false
+            },
+            {
+              "answer": "Java",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Was ist die grundlegende Funktion eines Betriebssystems?",
+          "info": "Das Betriebssystem verwaltet die Hardware- und Software-Ressourcen eines Computers.",
+          "answers": [
+            {
+              "answer": "Es verwaltet die Hardware und Software des Computers.",
+              "correct": true
+            },
+            {
+              "answer": "Es erstellt Videos und Bilder.",
+              "correct": false
+            },
+            {
+              "answer": "Es speichert ausschließlich Daten.",
+              "correct": false
+            },
+            {
+              "answer": "Es dient nur der Internetnutzung.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Was bedeutet die Abkürzung RAM?",
+          "info": "RAM ist der Arbeitsspeicher eines Computers und speichert Daten temporär während der Ausführung von Programmen.",
+          "answers": [
+            {
+              "answer": "Random Access Memory",
+              "correct": true
+            },
+            {
+              "answer": "Read Access Memory",
+              "correct": false
+            },
+            {
+              "answer": "Rapid Action Memory",
+              "correct": false
+            },
+            {
+              "answer": "Remote Access Module",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Was ist eine Festplatte (HDD)?",
+          "info": "Eine Festplatte ist ein Datenspeichergerät, das Informationen dauerhaft speichert.",
+          "answers": [
+            {
+              "answer": "Ein Speichergerät für Daten",
+              "correct": true
+            },
+            {
+              "answer": "Ein Prozessor zur Datenverarbeitung",
+              "correct": false
+            },
+            {
+              "answer": "Ein Netzwerkgerät",
+              "correct": false
+            },
+            {
+              "answer": "Ein grafisches Ausgabegerät",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche der folgenden ist ein Betriebssystem?",
+          "info": "Ein Betriebssystem ist Software, die grundlegende Funktionen wie Dateiverwaltung und Prozesssteuerung bereitstellt.",
+          "answers": [
+            {
+              "answer": "Windows",
+              "correct": true
+            },
+            {
+              "answer": "Microsoft Word",
+              "correct": false
+            },
+            {
+              "answer": "Photoshop",
+              "correct": false
+            },
+            {
+              "answer": "Google Chrome",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Funktion hat eine Firewall?",
+          "info": "Eine Firewall schützt ein Computersystem vor unerlaubten Zugriffen aus einem Netzwerk.",
+          "answers": [
+            {
+              "answer": "Sie schützt das System vor unbefugten Zugriffen.",
+              "correct": true
+            },
+            {
+              "answer": "Sie entfernt alle Viren vom Computer.",
+              "correct": false
+            },
+            {
+              "answer": "Sie erhöht die Geschwindigkeit des Internets.",
+              "correct": false
+            },
+            {
+              "answer": "Sie ermöglicht das Öffnen von PDF-Dateien.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Funktion hat eine Firewall?",
+          "info": "Eine Firewall schützt ein Computersystem vor unerlaubten Zugriffen aus einem Netzwerk.",
+          "answers": [
+            {
+              "answer": "Sie schützt das System vor unbefugten Zugriffen.",
+              "correct": true
+            },
+            {
+              "answer": "Sie entfernt alle Viren vom Computer.",
+              "correct": false
+            },
+            {
+              "answer": "Sie erhöht die Geschwindigkeit des Internets.",
+              "correct": false
+            },
+            {
+              "answer": "Sie ermöglicht das Öffnen von PDF-Dateien.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Was ist der Hauptzweck eines Betriebssystems?",
+          "info": "Das Betriebssystem verwaltet die Hardware- und Software-Ressourcen eines Computers.",
+          "answers": [
+            {
+              "answer": "Verwaltung von Hardware- und Software-Ressourcen",
+              "correct": true
+            },
+            {
+              "answer": "Erstellen von Grafiken",
+              "correct": false
+            },
+            {
+              "answer": "Senden von E-Mails",
+              "correct": false
+            },
+            {
+              "answer": "Erstellen von Webseiten",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Programmiersprache wird häufig zur Erstellung von Webseiten verwendet?",
+          "info": "HTML ist die Grundlage der Struktur von Webseiten.",
+          "answers": [
+            {
+              "answer": "HTML",
+              "correct": true
+            },
+            {
+              "answer": "Java",
+              "correct": false
+            },
+            {
+              "answer": "Python",
+              "correct": false
+            },
+            {
+              "answer": "C++",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche von diesen ist ein Eingabegerät?",
+          "info": "Eingabegeräte werden verwendet, um Daten in den Computer einzugeben.",
+          "answers": [
+            {
+              "answer": "Maus",
+              "correct": true
+            },
+            {
+              "answer": "Monitor",
+              "correct": false
+            },
+            {
+              "answer": "Drucker",
+              "correct": false
+            },
+            {
+              "answer": "Lautsprecher",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Was bedeutet das Akronym 'URL'?",
+          "info": "Eine URL (Uniform Resource Locator) ist die Adresse einer Webseite im Internet.",
+          "answers": [
+            {
+              "answer": "Uniform Resource Locator",
+              "correct": true
+            },
+            {
+              "answer": "Uniform Routing Locator",
+              "correct": false
+            },
+            {
+              "answer": "Universal Resource Locator",
+              "correct": false
+            },
+            {
+              "answer": "Unified Resource Locator",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Zahlensystembasis wird im Hexadezimalsystem verwendet?",
+          "info": "Das Hexadezimalsystem basiert auf 16 verschiedenen Zeichen.",
+          "answers": [
+            {
+              "answer": "16",
+              "correct": true
+            },
+            {
+              "answer": "10",
+              "correct": false
+            },
+            {
+              "answer": "2",
+              "correct": false
+            },
+            {
+              "answer": "8",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Was ist ein Virus in der Informatik?",
+          "info": "Ein Virus ist ein schadhafter Code, der sich in andere Programme oder Dateien einschleust und sich verbreitet.",
+          "answers": [
+            {
+              "answer": "Ein schadhafter Code, der sich verbreitet.",
+              "correct": true
+            },
+            {
+              "answer": "Ein nützlicher Softwarecode.",
+              "correct": false
+            },
+            {
+              "answer": "Ein Gerät zur Datenverarbeitung.",
+              "correct": false
+            },
+            {
+              "answer": "Ein Netzwerkprotokoll.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Was ist der Unterschied zwischen RAM und Festplattenspeicher?",
+          "info": "RAM ist flüchtiger Speicher, der nur während der Nutzung des Computers Daten speichert, während Festplattenspeicher Daten dauerhaft speichert.",
+          "answers": [
+            {
+              "answer": "RAM speichert Daten nur vorübergehend, Festplattenspeicher dauerhaft.",
+              "correct": true
+            },
+            {
+              "answer": "RAM speichert Daten dauerhaft, Festplattenspeicher nur vorübergehend.",
+              "correct": false
+            },
+            {
+              "answer": "RAM ist größer als Festplattenspeicher.",
+              "correct": false
+            },
+            {
+              "answer": "Festplattenspeicher ist schneller als RAM.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Was ist eine IP-Adresse?",
+          "info": "Eine IP-Adresse ist eine eindeutige Kennung für ein Gerät in einem Netzwerk.",
+          "answers": [
+            {
+              "answer": "Eindeutige Kennung für ein Gerät in einem Netzwerk",
+              "correct": true
+            },
+            {
+              "answer": "Eine Software, die das Netzwerk steuert.",
+              "correct": false
+            },
+            {
+              "answer": "Ein Verschlüsselungsalgorithmus.",
+              "correct": false
+            },
+            {
+              "answer": "Ein Gerät zur Netzwerkverbindung.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welches dieser Geräte ist ein Ausgabegerät?",
+          "info": "Ausgabegeräte geben Daten aus, die vom Computer verarbeitet wurden.",
+          "answers": [
+            {
+              "answer": "Drucker",
+              "correct": true
+            },
+            {
+              "answer": "Tastatur",
+              "correct": false
+            },
+            {
+              "answer": "Maus",
+              "correct": false
+            },
+            {
+              "answer": "Scanner",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Was ist ein 'Byte'?",
+          "info": "Ein Byte ist eine Speichereinheit, die aus 8 Bits besteht.",
+          "answers": [
+            {
+              "answer": "Eine Speichereinheit, die aus 8 Bits besteht.",
+              "correct": true
+            },
+            {
+              "answer": "Eine Speichereinheit, die aus 16 Bits besteht.",
+              "correct": false
+            },
+            {
+              "answer": "Eine Speichereinheit, die aus 4 Bits besteht.",
+              "correct": false
+            },
+            {
+              "answer": "Eine Speichereinheit, die aus 32 Bits besteht.",
+              "correct": false
+            }
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "question": "Welche Komplexitätsklasse beschreibt Algorithmen, die in polynomieller Zeit lösbar sind?",
+          "info": "Die Komplexitätsklasse wird oft für Algorithmen verwendet, deren Laufzeit in Bezug auf die Eingabegröße effizient bleibt.",
+          "answers": [
+            {
+              "answer": "P",
+              "correct": true
+            },
+            {
+              "answer": "NP",
+              "correct": false
+            },
+            {
+              "answer": "EXP",
+              "correct": false
+            },
+            {
+              "answer": "PSPACE",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Datenstruktur verwendet das Prinzip 'First In, First Out' (FIFO)?",
+          "info": "Diese Datenstruktur verwaltet Elemente so, dass das zuerst eingefügte Element auch zuerst entnommen wird.",
+          "answers": [
+            {
+              "answer": "Queue",
+              "correct": true
+            },
+            {
+              "answer": "Stack",
+              "correct": false
+            },
+            {
+              "answer": "Heap",
+              "correct": false
+            },
+            {
+              "answer": "Array",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welches Protokoll wird für den sicheren Datentransfer über das Internet verwendet?",
+          "info": "Dieses Protokoll schützt die Kommunikation zwischen Client und Server durch Verschlüsselung.",
+          "answers": [
+            {
+              "answer": "HTTPS",
+              "correct": true
+            },
+            {
+              "answer": "HTTP",
+              "correct": false
+            },
+            {
+              "answer": "FTP",
+              "correct": false
+            },
+            {
+              "answer": "SMTP",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Art von Datenbank ist eine relationale Datenbank?",
+          "info": "Relationale Datenbanken speichern Daten in Tabellenform und verwenden Beziehungen zwischen diesen Tabellen.",
+          "answers": [
+            {
+              "answer": "Tabellenbasierte Datenbank",
+              "correct": true
+            },
+            {
+              "answer": "Graphdatenbank",
+              "correct": false
+            },
+            {
+              "answer": "Key-Value-Datenbank",
+              "correct": false
+            },
+            {
+              "answer": "Dokumentendatenbank",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Was ist der Zweck von Garbage Collection in der Programmierung?",
+          "info": "Garbage Collection wird verwendet, um nicht mehr benötigten Speicherplatz automatisch freizugeben.",
+          "answers": [
+            {
+              "answer": "Automatische Speicherbereinigung",
+              "correct": true
+            },
+            {
+              "answer": "Optimierung der CPU-Leistung",
+              "correct": false
+            },
+            {
+              "answer": "Erhöhung der Programmgeschwindigkeit",
+              "correct": false
+            },
+            {
+              "answer": "Reduzierung von Netzwerk-Latenz",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Was ist der Unterschied zwischen einer Compiler- und einer Interpreter-Sprache?",
+          "info": "Compiler-Sprachen übersetzen den gesamten Quellcode in Maschinensprache, während Interpreter-Sprachen den Code Zeile für Zeile ausführen.",
+          "answers": [
+            {
+              "answer": "Compiler übersetzen den Code vor der Ausführung, Interpreter zur Laufzeit.",
+              "correct": true
+            },
+            {
+              "answer": "Compiler sind langsamer als Interpreter.",
+              "correct": false
+            },
+            {
+              "answer": "Interpreter benötigen keinen Quellcode.",
+              "correct": false
+            },
+            {
+              "answer": "Compiler führen den Code Zeile für Zeile aus.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Was ist ein Primärschlüssel in einer Datenbank?",
+          "info": "Ein Primärschlüssel identifiziert jeden Datensatz in einer Tabelle eindeutig.",
+          "answers": [
+            {
+              "answer": "Ein eindeutiges Attribut oder eine Kombination von Attributen.",
+              "correct": true
+            },
+            {
+              "answer": "Ein Wert, der sich wiederholen darf.",
+              "correct": false
+            },
+            {
+              "answer": "Ein Feld zur Speicherung von Passwörtern.",
+              "correct": false
+            },
+            {
+              "answer": "Ein Attribut, das Daten verschlüsselt.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Was bedeutet das Akronym 'API' in der Informatik?",
+          "info": "APIs ermöglichen die Kommunikation zwischen verschiedenen Softwareanwendungen.",
+          "answers": [
+            {
+              "answer": "Application Programming Interface",
+              "correct": true
+            },
+            {
+              "answer": "Advanced Protocol Interface",
+              "correct": false
+            },
+            {
+              "answer": "Application Process Integration",
+              "correct": false
+            },
+            {
+              "answer": "Automated Programming Instruction",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welcher Algorithmus wird häufig für die Verschlüsselung verwendet?",
+          "info": "Dieser Algorithmus gehört zu den gängigsten und sichersten Methoden der Datenverschlüsselung.",
+          "answers": [
+            {
+              "answer": "AES (Advanced Encryption Standard)",
+              "correct": true
+            },
+            {
+              "answer": "SHA-256",
+              "correct": false
+            },
+            {
+              "answer": "RSA",
+              "correct": false
+            },
+            {
+              "answer": "MD5",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Was ist der Hauptvorteil von modularer Programmierung?",
+          "info": "Modulare Programmierung teilt Programme in kleinere, überschaubare und wiederverwendbare Teile auf.",
+          "answers": [
+            {
+              "answer": "Wiederverwendbarkeit und einfachere Wartung von Code",
+              "correct": true
+            },
+            {
+              "answer": "Schnellere Ausführung des Programms",
+              "correct": false
+            },
+            {
+              "answer": "Automatische Generierung von Dokumentation",
+              "correct": false
+            },
+            {
+              "answer": "Bessere Grafikdarstellung",
+              "correct": false
+            }
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "question": "Was ist der Unterschied zwischen symmetrischer und asymmetrischer Verschlüsselung?",
+          "info": "Symmetrische Verschlüsselung verwendet denselben Schlüssel für Verschlüsselung und Entschlüsselung, während asymmetrische Verschlüsselung ein Schlüsselpaar nutzt.",
+          "answers": [
+            {
+              "answer": "Symmetrische Verschlüsselung nutzt denselben Schlüssel, asymmetrische ein Schlüsselpaar.",
+              "correct": true
+            },
+            {
+              "answer": "Symmetrische Verschlüsselung ist sicherer als asymmetrische.",
+              "correct": false
+            },
+            {
+              "answer": "Symmetrische Verschlüsselung verwendet zwei Schlüssel, asymmetrische nur einen.",
+              "correct": false
+            },
+            {
+              "answer": "Symmetrische Verschlüsselung ist nur für Textdaten geeignet.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Datenstruktur wird von Dijkstra's Algorithmus verwendet, um den kürzesten Pfad zu berechnen?",
+          "info": "Dijkstra's Algorithmus verwendet eine Prioritätswarteschlange, um die Knoten effizient zu bearbeiten.",
+          "answers": [
+            {
+              "answer": "Prioritätswarteschlange",
+              "correct": true
+            },
+            {
+              "answer": "Stack",
+              "correct": false
+            },
+            {
+              "answer": "Hash-Map",
+              "correct": false
+            },
+            {
+              "answer": "Binärer Baum",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Eigenschaft muss eine Hash-Funktion für kryptografische Anwendungen erfüllen?",
+          "info": "Eine gute kryptografische Hash-Funktion muss Kollisionsresistenz bieten.",
+          "answers": [
+            {
+              "answer": "Kollisionsresistenz",
+              "correct": true
+            },
+            {
+              "answer": "Determinismus",
+              "correct": false
+            },
+            {
+              "answer": "Zufälligkeit",
+              "correct": false
+            },
+            {
+              "answer": "Variable Länge der Ausgabe",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Was ist der Zweck von Memoization in der Programmierung?",
+          "info": "Memoization wird verwendet, um die Laufzeit von rekursiven Algorithmen zu optimieren, indem Zwischenergebnisse gespeichert werden.",
+          "answers": [
+            {
+              "answer": "Speichern von Zwischenergebnissen, um Redundanz zu vermeiden.",
+              "correct": true
+            },
+            {
+              "answer": "Optimierung der Speicherbelegung.",
+              "correct": false
+            },
+            {
+              "answer": "Erhöhung der Parallelität im Algorithmus.",
+              "correct": false
+            },
+            {
+              "answer": "Verringerung der Anzahl der Parameter in einer Funktion.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Zeitkomplexität hat der Merge-Sort-Algorithmus im schlechtesten Fall?",
+          "info": "Merge-Sort hat eine stabile Zeitkomplexität aufgrund seines 'Teilen und Herrschen'-Ansatzes.",
+          "answers": [
+            {
+              "answer": "O(n log n)",
+              "correct": true
+            },
+            {
+              "answer": "O(n^2)",
+              "correct": false
+            },
+            {
+              "answer": "O(log n)",
+              "correct": false
+            },
+            {
+              "answer": "O(n)",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Was ist der Hauptunterschied zwischen REST und SOAP als Web-Service-Architekturen?",
+          "info": "REST ist ein leichter Ansatz, der auf HTTP basiert, während SOAP ein Protokoll mit festen Standards und Regeln ist.",
+          "answers": [
+            {
+              "answer": "REST ist leichter und basiert auf HTTP, während SOAP ein komplexeres Protokoll mit festen Standards ist.",
+              "correct": true
+            },
+            {
+              "answer": "REST verwendet XML, während SOAP JSON nutzt.",
+              "correct": false
+            },
+            {
+              "answer": "SOAP ist schneller als REST.",
+              "correct": false
+            },
+            {
+              "answer": "REST erfordert eine verbindungsorientierte Kommunikation, SOAP nicht.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche der folgenden Architekturen wird bei modernen Microservices häufig verwendet?",
+          "info": "Diese Architektur trennt Dienste voneinander, um Skalierbarkeit und Unabhängigkeit zu gewährleisten.",
+          "answers": [
+            {
+              "answer": "Event-gesteuerte Architektur",
+              "correct": true
+            },
+            {
+              "answer": "Monolithische Architektur",
+              "correct": false
+            },
+            {
+              "answer": "Client-Server-Architektur",
+              "correct": false
+            },
+            {
+              "answer": "Peer-to-Peer-Architektur",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche der folgenden Eigenschaften beschreibt ACID in Datenbanksystemen korrekt?",
+          "info": "ACID steht für Atomicity, Consistency, Isolation und Durability, die grundlegenden Eigenschaften von Transaktionen in Datenbanken.",
+          "answers": [
+            {
+              "answer": "Atomicity, Consistency, Isolation, Durability",
+              "correct": true
+            },
+            {
+              "answer": "Accuracy, Connectivity, Integration, Dependability",
+              "correct": false
+            },
+            {
+              "answer": "Access, Control, Integrity, Data",
+              "correct": false
+            },
+            {
+              "answer": "Automation, Consistency, Isolation, Design",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Komponente eines Betriebssystems verwaltet Prozesse und deren Zustände?",
+          "info": "Diese Komponente des Betriebssystems sorgt für die Planung und Verwaltung von Prozessen.",
+          "answers": [
+            {
+              "answer": "Scheduler",
+              "correct": true
+            },
+            {
+              "answer": "Kernel",
+              "correct": false
+            },
+            {
+              "answer": "Memory Manager",
+              "correct": false
+            },
+            {
+              "answer": "File System Manager",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Was ist die Bedeutung von 'Big O' in der Informatik?",
+          "info": "Big O beschreibt die obere Schranke der Laufzeit eines Algorithmus, insbesondere in Bezug auf die Eingabegröße.",
+          "answers": [
+            {
+              "answer": "Es beschreibt die asymptotische Laufzeitkomplexität eines Algorithmus.",
+              "correct": true
+            },
+            {
+              "answer": "Es misst die Anzahl der benötigten CPU-Zyklen eines Algorithmus.",
+              "correct": false
+            },
+            {
+              "answer": "Es beschreibt den Speicherverbrauch eines Programms.",
+              "correct": false
+            },
+            {
+              "answer": "Es definiert die minimale Laufzeit eines Algorithmus.",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sport",
+    "description": "Fragen rund um Sport.",
+    "questions": {
+      "easy": [
+        {
+          "question": "Wie viele Spieler stehen bei einer Fußballmannschaft gleichzeitig auf dem Feld?",
+          "info": "In einer regulären Fußballmannschaft gibt es elf Spieler auf dem Feld, einschließlich des Torwarts.",
+          "answers": [
+            {
+              "answer": "11",
+              "correct": true
+            },
+            {
+              "answer": "10",
+              "correct": false
+            },
+            {
+              "answer": "12",
+              "correct": false
+            },
+            {
+              "answer": "13",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Sportart wird als 'Königsklasse des Motorsports' bezeichnet?",
+          "info": "Die Formel 1 gilt als die prestigeträchtigste Motorsport-Kategorie weltweit.",
+          "answers": [
+            {
+              "answer": "Formel 1",
+              "correct": true
+            },
+            {
+              "answer": "Rallye",
+              "correct": false
+            },
+            {
+              "answer": "Motocross",
+              "correct": false
+            },
+            {
+              "answer": "DTM",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "In welcher Sportart spielt man auf einem Platz mit einem Netz in der Mitte?",
+          "info": "Diese Sportart wird häufig im Einzel oder Doppel gespielt und nutzt Schläger und einen Ball.",
+          "answers": [
+            {
+              "answer": "Tennis",
+              "correct": true
+            },
+            {
+              "answer": "Volleyball",
+              "correct": false
+            },
+            {
+              "answer": "Badminton",
+              "correct": false
+            },
+            {
+              "answer": "Basketball",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Wie viele Ringe hat das olympische Symbol?",
+          "info": "Die fünf Ringe stehen für die fünf Kontinente, die an den Olympischen Spielen teilnehmen.",
+          "answers": [
+            {
+              "answer": "5",
+              "correct": true
+            },
+            {
+              "answer": "4",
+              "correct": false
+            },
+            {
+              "answer": "6",
+              "correct": false
+            },
+            {
+              "answer": "3",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Sportart wird auch als 'Leichtathletik' bezeichnet?",
+          "info": "Dieser Sammelbegriff umfasst Sportarten wie Laufen, Springen und Werfen.",
+          "answers": [
+            {
+              "answer": "Laufen, Springen, Werfen",
+              "correct": true
+            },
+            {
+              "answer": "Schwimmen",
+              "correct": false
+            },
+            {
+              "answer": "Turnen",
+              "correct": false
+            },
+            {
+              "answer": "Gewichtheben",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Wie viele Spieler stehen bei einer Fußballmannschaft gleichzeitig auf dem Feld?",
+          "info": "In einer regulären Fußballmannschaft gibt es elf Spieler auf dem Feld, einschließlich des Torwarts.",
+          "answers": [
+            {
+              "answer": "11",
+              "correct": true
+            },
+            {
+              "answer": "10",
+              "correct": false
+            },
+            {
+              "answer": "12",
+              "correct": false
+            },
+            {
+              "answer": "13",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Sportart wird als 'Königsklasse des Motorsports' bezeichnet?",
+          "info": "Die Formel 1 gilt als die prestigeträchtigste Motorsport-Kategorie weltweit.",
+          "answers": [
+            {
+              "answer": "Formel 1",
+              "correct": true
+            },
+            {
+              "answer": "Rallye",
+              "correct": false
+            },
+            {
+              "answer": "Motocross",
+              "correct": false
+            },
+            {
+              "answer": "DTM",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "In welcher Sportart spielt man auf einem Platz mit einem Netz in der Mitte?",
+          "info": "Diese Sportart wird häufig im Einzel oder Doppel gespielt und nutzt Schläger und einen Ball.",
+          "answers": [
+            {
+              "answer": "Tennis",
+              "correct": true
+            },
+            {
+              "answer": "Volleyball",
+              "correct": false
+            },
+            {
+              "answer": "Badminton",
+              "correct": false
+            },
+            {
+              "answer": "Basketball",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Wie viele Ringe hat das olympische Symbol?",
+          "info": "Die fünf Ringe stehen für die fünf Kontinente, die an den Olympischen Spielen teilnehmen.",
+          "answers": [
+            {
+              "answer": "5",
+              "correct": true
+            },
+            {
+              "answer": "4",
+              "correct": false
+            },
+            {
+              "answer": "6",
+              "correct": false
+            },
+            {
+              "answer": "3",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Sportart wird auch als 'Leichtathletik' bezeichnet?",
+          "info": "Dieser Sammelbegriff umfasst Sportarten wie Laufen, Springen und Werfen.",
+          "answers": [
+            {
+              "answer": "Laufen, Springen, Werfen",
+              "correct": true
+            },
+            {
+              "answer": "Schwimmen",
+              "correct": false
+            },
+            {
+              "answer": "Turnen",
+              "correct": false
+            },
+            {
+              "answer": "Gewichtheben",
+              "correct": false
+            }
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "question": "Wie viele Punkte gibt ein Treffer außerhalb der Dreipunktlinie im Basketball?",
+          "info": "Ein Treffer außerhalb der markierten Dreipunktlinie zählt drei Punkte.",
+          "answers": [
+            {
+              "answer": "3 Punkte",
+              "correct": true
+            },
+            {
+              "answer": "2 Punkte",
+              "correct": false
+            },
+            {
+              "answer": "4 Punkte",
+              "correct": false
+            },
+            {
+              "answer": "1 Punkt",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Wie viele Grand-Slam-Turniere gibt es im Tennis pro Jahr?",
+          "info": "Die vier Grand-Slam-Turniere sind die Australian Open, French Open, Wimbledon und US Open.",
+          "answers": [
+            {
+              "answer": "4",
+              "correct": true
+            },
+            {
+              "answer": "3",
+              "correct": false
+            },
+            {
+              "answer": "5",
+              "correct": false
+            },
+            {
+              "answer": "6",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welches Land hat die meisten FIFA-Weltmeisterschaften im Fußball gewonnen?",
+          "info": "Brasilien führt mit 5 Weltmeistertiteln die Rangliste der Fußball-Weltmeisterschaften an.",
+          "answers": [
+            {
+              "answer": "Brasilien",
+              "correct": true
+            },
+            {
+              "answer": "Deutschland",
+              "correct": false
+            },
+            {
+              "answer": "Italien",
+              "correct": false
+            },
+            {
+              "answer": "Argentinien",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "In welcher Sportart wird der Begriff 'Puck' verwendet?",
+          "info": "Ein Puck ist eine Hartgummischeibe, die im Eishockey verwendet wird.",
+          "answers": [
+            {
+              "answer": "Eishockey",
+              "correct": true
+            },
+            {
+              "answer": "Baseball",
+              "correct": false
+            },
+            {
+              "answer": "Rugby",
+              "correct": false
+            },
+            {
+              "answer": "Golf",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Wie viele Spieler hat ein Rugby-Team auf dem Feld?",
+          "info": "Ein Rugby-Team besteht aus 15 Spielern auf dem Feld.",
+          "answers": [
+            {
+              "answer": "15",
+              "correct": true
+            },
+            {
+              "answer": "11",
+              "correct": false
+            },
+            {
+              "answer": "13",
+              "correct": false
+            },
+            {
+              "answer": "7",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Wie hoch ist ein reguläres Basketballkorbniveau vom Boden?",
+          "info": "Der Basketballkorb befindet sich auf einer Höhe von 3,05 Metern über dem Boden.",
+          "answers": [
+            {
+              "answer": "3,05 Meter",
+              "correct": true
+            },
+            {
+              "answer": "2,50 Meter",
+              "correct": false
+            },
+            {
+              "answer": "3,50 Meter",
+              "correct": false
+            },
+            {
+              "answer": "2,80 Meter",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Fußballmannschaft hat die meisten Champions-League-Titel gewonnen?",
+          "info": "Real Madrid hat mehr Champions-League-Titel als jede andere Mannschaft gewonnen.",
+          "answers": [
+            {
+              "answer": "Real Madrid",
+              "correct": true
+            },
+            {
+              "answer": "FC Barcelona",
+              "correct": false
+            },
+            {
+              "answer": "Manchester United",
+              "correct": false
+            },
+            {
+              "answer": "AC Mailand",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Sportart umfasst Disziplinen wie Kraulen, Schmetterling und Rücken?",
+          "info": "Diese Begriffe beziehen sich auf verschiedene Schwimmstile im Wettkampfschwimmen.",
+          "answers": [
+            {
+              "answer": "Schwimmen",
+              "correct": true
+            },
+            {
+              "answer": "Triathlon",
+              "correct": false
+            },
+            {
+              "answer": "Wasserball",
+              "correct": false
+            },
+            {
+              "answer": "Tauchen",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Sportart ist auch unter dem Namen 'König der Spiele' bekannt?",
+          "info": "Leichtathletik umfasst viele verschiedene Disziplinen und wird oft als 'König der Spiele' bezeichnet.",
+          "answers": [
+            {
+              "answer": "Leichtathletik",
+              "correct": true
+            },
+            {
+              "answer": "Fußball",
+              "correct": false
+            },
+            {
+              "answer": "Tennis",
+              "correct": false
+            },
+            {
+              "answer": "Rugby",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Länge hat ein olympisches Schwimmbecken?",
+          "info": "Ein olympisches Schwimmbecken ist 50 Meter lang.",
+          "answers": [
+            {
+              "answer": "50 Meter",
+              "correct": true
+            },
+            {
+              "answer": "25 Meter",
+              "correct": false
+            },
+            {
+              "answer": "75 Meter",
+              "correct": false
+            },
+            {
+              "answer": "100 Meter",
+              "correct": false
+            }
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "question": "Welcher Boxer ist als 'The Greatest' und 'The People's Champion' bekannt?",
+          "info": "Muhammad Ali, einer der größten Boxer aller Zeiten, wurde für seine Erfolge und seinen Charakter so genannt.",
+          "answers": [
+            {
+              "answer": "Muhammad Ali",
+              "correct": true
+            },
+            {
+              "answer": "Mike Tyson",
+              "correct": false
+            },
+            {
+              "answer": "George Foreman",
+              "correct": false
+            },
+            {
+              "answer": "Joe Frazier",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welches Land gewann die erste Fußball-Weltmeisterschaft der Geschichte?",
+          "info": "Die erste Weltmeisterschaft fand 1930 statt, und das Gastgeberland gewann den Titel.",
+          "answers": [
+            {
+              "answer": "Uruguay",
+              "correct": true
+            },
+            {
+              "answer": "Brasilien",
+              "correct": false
+            },
+            {
+              "answer": "Italien",
+              "correct": false
+            },
+            {
+              "answer": "Deutschland",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Wie viele Titel hat Serena Williams bei Grand-Slam-Turnieren im Einzel gewonnen?",
+          "info": "Serena Williams gehört zu den erfolgreichsten Tennisspielerinnen aller Zeiten.",
+          "answers": [
+            {
+              "answer": "23",
+              "correct": true
+            },
+            {
+              "answer": "22",
+              "correct": false
+            },
+            {
+              "answer": "24",
+              "correct": false
+            },
+            {
+              "answer": "21",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welcher Sportler hat die meisten olympischen Goldmedaillen gewonnen?",
+          "info": "Dieser Schwimmer dominiert die Liste mit insgesamt 23 olympischen Goldmedaillen.",
+          "answers": [
+            {
+              "answer": "Michael Phelps",
+              "correct": true
+            },
+            {
+              "answer": "Mark Spitz",
+              "correct": false
+            },
+            {
+              "answer": "Usain Bolt",
+              "correct": false
+            },
+            {
+              "answer": "Carl Lewis",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Distanz läuft ein Teilnehmer beim olympischen Marathon?",
+          "info": "Die Marathondistanz basiert auf einer Strecke von 26 Meilen und 385 Yards.",
+          "answers": [
+            {
+              "answer": "42,195 Kilometer",
+              "correct": true
+            },
+            {
+              "answer": "40 Kilometer",
+              "correct": false
+            },
+            {
+              "answer": "50 Kilometer",
+              "correct": false
+            },
+            {
+              "answer": "41,195 Kilometer",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Wer war der erste Golfer, der den 'Career Grand Slam' erreicht hat?",
+          "info": "Dieser Golfer hat als erster alle vier großen Turniere im Golf gewonnen.",
+          "answers": [
+            {
+              "answer": "Gene Sarazen",
+              "correct": true
+            },
+            {
+              "answer": "Tiger Woods",
+              "correct": false
+            },
+            {
+              "answer": "Jack Nicklaus",
+              "correct": false
+            },
+            {
+              "answer": "Ben Hogan",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welcher Fußballer hält den Rekord für die meisten erzielten Tore in offiziellen Spielen?",
+          "info": "Dieser brasilianische Spieler hat über 1.200 Tore in offiziellen Spielen erzielt.",
+          "answers": [
+            {
+              "answer": "Pelé",
+              "correct": true
+            },
+            {
+              "answer": "Cristiano Ronaldo",
+              "correct": false
+            },
+            {
+              "answer": "Lionel Messi",
+              "correct": false
+            },
+            {
+              "answer": "Gerd Müller",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "In welcher Stadt fanden die ersten modernen Olympischen Spiele statt?",
+          "info": "Die Spiele fanden 1896 in der Stadt statt, in der auch die antiken Spiele entstanden sind.",
+          "answers": [
+            {
+              "answer": "Athen",
+              "correct": true
+            },
+            {
+              "answer": "Rom",
+              "correct": false
+            },
+            {
+              "answer": "Paris",
+              "correct": false
+            },
+            {
+              "answer": "London",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Basketballmannschaft hält den Rekord für die meisten NBA-Meistertitel?",
+          "info": "Diese Mannschaft hat 17 Meistertitel gewonnen und gehört zu den erfolgreichsten Franchises in der NBA-Geschichte.",
+          "answers": [
+            {
+              "answer": "Boston Celtics",
+              "correct": true
+            },
+            {
+              "answer": "Los Angeles Lakers",
+              "correct": false
+            },
+            {
+              "answer": "Chicago Bulls",
+              "correct": false
+            },
+            {
+              "answer": "Golden State Warriors",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welches Land hat die meisten Medaillen bei den Olympischen Winterspielen gewonnen?",
+          "info": "Dieses Land ist besonders erfolgreich in Disziplinen wie Skilanglauf und Biathlon.",
+          "answers": [
+            {
+              "answer": "Norwegen",
+              "correct": true
+            },
+            {
+              "answer": "Deutschland",
+              "correct": false
+            },
+            {
+              "answer": "Kanada",
+              "correct": false
+            },
+            {
+              "answer": "USA",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Geografie",
+    "description": "Fragen rund um Geografie.",
+    "questions": {
+      "easy": [
+        {
+          "question": "Welche Stadt ist die Hauptstadt von Frankreich?",
+          "info": "Paris ist bekannt als die Stadt der Liebe und eine der meistbesuchten Städte der Welt.",
+          "answers": [
+            {
+              "answer": "London",
+              "correct": false
+            },
+            {
+              "answer": "Paris",
+              "correct": true
+            },
+            {
+              "answer": "Berlin",
+              "correct": false
+            },
+            {
+              "answer": "Rom",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welcher Kontinent ist der größte der Welt?",
+          "info": "Asien umfasst etwa 44 Millionen Quadratkilometer und ist damit der größte Kontinent.",
+          "answers": [
+            {
+              "answer": "Afrika",
+              "correct": false
+            },
+            {
+              "answer": "Asien",
+              "correct": true
+            },
+            {
+              "answer": "Europa",
+              "correct": false
+            },
+            {
+              "answer": "Nordamerika",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welcher Ozean ist der größte der Welt?",
+          "info": "Der Pazifische Ozean bedeckt etwa 30% der Erdoberfläche.",
+          "answers": [
+            {
+              "answer": "Atlantischer Ozean",
+              "correct": false
+            },
+            {
+              "answer": "Indischer Ozean",
+              "correct": false
+            },
+            {
+              "answer": "Pazifischer Ozean",
+              "correct": true
+            },
+            {
+              "answer": "Arktischer Ozean",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welches Land hat die größte Bevölkerung der Welt?",
+          "info": "China hat eine Bevölkerung von über 1,4 Milliarden Menschen.",
+          "answers": [
+            {
+              "answer": "Indien",
+              "correct": false
+            },
+            {
+              "answer": "China",
+              "correct": true
+            },
+            {
+              "answer": "USA",
+              "correct": false
+            },
+            {
+              "answer": "Brasilien",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "In welchem Land befinden sich die Pyramiden von Gizeh?",
+          "info": "Die Pyramiden von Gizeh sind eines der Sieben Weltwunder der Antike.",
+          "answers": [
+            {
+              "answer": "Griechenland",
+              "correct": false
+            },
+            {
+              "answer": "Mexiko",
+              "correct": false
+            },
+            {
+              "answer": "Ägypten",
+              "correct": true
+            },
+            {
+              "answer": "Italien",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welcher Fluss ist der längste der Welt?",
+          "info": "Der Nil ist mit über 6.600 km der längste Fluss der Welt.",
+          "answers": [
+            {
+              "answer": "Amazonas",
+              "correct": false
+            },
+            {
+              "answer": "Nil",
+              "correct": true
+            },
+            {
+              "answer": "Mississippi",
+              "correct": false
+            },
+            {
+              "answer": "Donau",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "In welchem Land befindet sich der Mount Everest?",
+          "info": "Der Mount Everest ist mit 8.849 Metern der höchste Berg der Welt.",
+          "answers": [
+            {
+              "answer": "Nepal",
+              "correct": true
+            },
+            {
+              "answer": "China",
+              "correct": false
+            },
+            {
+              "answer": "Indien",
+              "correct": false
+            },
+            {
+              "answer": "Pakistan",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche ist die größte Insel der Welt?",
+          "info": "Grönland ist die größte Insel der Welt und gehört zu Dänemark.",
+          "answers": [
+            {
+              "answer": "Australien",
+              "correct": false
+            },
+            {
+              "answer": "Grönland",
+              "correct": true
+            },
+            {
+              "answer": "Madagaskar",
+              "correct": false
+            },
+            {
+              "answer": "Island",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welches Land wird als Land der tausend Seen bezeichnet?",
+          "info": "Finnland hat über 188.000 Seen und wird daher als Land der tausend Seen bezeichnet.",
+          "answers": [
+            {
+              "answer": "Schweden",
+              "correct": false
+            },
+            {
+              "answer": "Kanada",
+              "correct": false
+            },
+            {
+              "answer": "Finnland",
+              "correct": true
+            },
+            {
+              "answer": "Norwegen",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Wüste ist die größte der Welt?",
+          "info": "Die Sahara ist die größte heiße Wüste der Welt, während die Antarktis die größte Gesamtdesert ist.",
+          "answers": [
+            {
+              "answer": "Sahara",
+              "correct": true
+            },
+            {
+              "answer": "Gobi",
+              "correct": false
+            },
+            {
+              "answer": "Kalahari",
+              "correct": false
+            },
+            {
+              "answer": "Atacama",
+              "correct": false
+            }
+          ]
+        }
+      ],
+      "medium": [
+        {
+          "question": "Welche Stadt liegt sowohl in Europa als auch in Asien?",
+          "info": "Istanbul ist die einzige Metropole, die sich über zwei Kontinente erstreckt.",
+          "answers": [
+            {
+              "answer": "Moskau",
+              "correct": false
+            },
+            {
+              "answer": "Istanbul",
+              "correct": true
+            },
+            {
+              "answer": "Kairo",
+              "correct": false
+            },
+            {
+              "answer": "Athen",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welcher See ist der tiefste der Welt?",
+          "info": "Der Baikalsee in Russland ist über 1.600 Meter tief.",
+          "answers": [
+            {
+              "answer": "Tanganjikasee",
+              "correct": false
+            },
+            {
+              "answer": "Baikalsee",
+              "correct": true
+            },
+            {
+              "answer": "Victoriasee",
+              "correct": false
+            },
+            {
+              "answer": "Kaspisches Meer",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welcher Staat in den USA ist flächenmäßig der größte?",
+          "info": "Alaska ist mehr als doppelt so groß wie Texas, der zweitgrößte Bundesstaat.",
+          "answers": [
+            {
+              "answer": "Texas",
+              "correct": false
+            },
+            {
+              "answer": "Alaska",
+              "correct": true
+            },
+            {
+              "answer": "Kalifornien",
+              "correct": false
+            },
+            {
+              "answer": "Montana",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welcher Fluss fließt durch die meisten Länder?",
+          "info": "Die Donau fließt durch zehn Länder in Europa.",
+          "answers": [
+            {
+              "answer": "Rhein",
+              "correct": false
+            },
+            {
+              "answer": "Donau",
+              "correct": true
+            },
+            {
+              "answer": "Nil",
+              "correct": false
+            },
+            {
+              "answer": "Amazonas",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "In welchem Land befindet sich die Atacama-Wüste?",
+          "info": "Die Atacama-Wüste ist die trockenste Wüste der Welt und liegt in Chile.",
+          "answers": [
+            {
+              "answer": "Argentinien",
+              "correct": false
+            },
+            {
+              "answer": "Chile",
+              "correct": true
+            },
+            {
+              "answer": "Peru",
+              "correct": false
+            },
+            {
+              "answer": "Bolivien",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welcher Berg ist der höchste Vulkan der Welt?",
+          "info": "Der Ojos del Salado ist mit 6.893 Metern der höchste Vulkan der Welt.",
+          "answers": [
+            {
+              "answer": "Mount Etna",
+              "correct": false
+            },
+            {
+              "answer": "Ojos del Salado",
+              "correct": true
+            },
+            {
+              "answer": "Mount Fuji",
+              "correct": false
+            },
+            {
+              "answer": "Kilimandscharo",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welches Land hat die längste Küstenlinie der Welt?",
+          "info": "Kanada hat eine Küstenlinie von über 200.000 Kilometern.",
+          "answers": [
+            {
+              "answer": "Australien",
+              "correct": false
+            },
+            {
+              "answer": "Kanada",
+              "correct": true
+            },
+            {
+              "answer": "Indonesien",
+              "correct": false
+            },
+            {
+              "answer": "Russland",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche europäische Hauptstadt liegt am höchsten?",
+          "info": "Madrid liegt auf einer Höhe von etwa 650 Metern und ist damit die höchstgelegene Hauptstadt Europas.",
+          "answers": [
+            {
+              "answer": "Bern",
+              "correct": false
+            },
+            {
+              "answer": "Madrid",
+              "correct": true
+            },
+            {
+              "answer": "Wien",
+              "correct": false
+            },
+            {
+              "answer": "Rom",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welches Land hat die meisten Inseln der Welt?",
+          "info": "Schweden hat etwa 267.000 Inseln und ist damit führend.",
+          "answers": [
+            {
+              "answer": "Philippinen",
+              "correct": false
+            },
+            {
+              "answer": "Schweden",
+              "correct": true
+            },
+            {
+              "answer": "Indonesien",
+              "correct": false
+            },
+            {
+              "answer": "Norwegen",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welcher Berg ist der zweithöchste der Welt?",
+          "info": "Der K2 liegt im Karakorum-Gebirge und ist mit 8.611 Metern der zweithöchste Berg.",
+          "answers": [
+            {
+              "answer": "Everest",
+              "correct": false
+            },
+            {
+              "answer": "K2",
+              "correct": true
+            },
+            {
+              "answer": "Kangchendzönga",
+              "correct": false
+            },
+            {
+              "answer": "Lhotse",
+              "correct": false
+            }
+          ]
+        }
+      ],
+      "hard": [
+        {
+          "question": "Welches Land hat keinen Zugang zum Meer und ist vollständig von einem einzigen anderen Land umgeben?",
+          "info": "Lesotho ist ein Binnenstaat, der vollständig von Südafrika umgeben ist.",
+          "answers": [
+            {
+              "answer": "Andorra",
+              "correct": false
+            },
+            {
+              "answer": "Lesotho",
+              "correct": true
+            },
+            {
+              "answer": "Vatikanstadt",
+              "correct": false
+            },
+            {
+              "answer": "San Marino",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "In welchem Land liegt der tiefste Punkt der Erde an Land?",
+          "info": "Die Küste des Toten Meeres in Jordanien liegt etwa 430 Meter unter dem Meeresspiegel.",
+          "answers": [
+            {
+              "answer": "Israel",
+              "correct": false
+            },
+            {
+              "answer": "Jordanien",
+              "correct": true
+            },
+            {
+              "answer": "Ägypten",
+              "correct": false
+            },
+            {
+              "answer": "Saudi-Arabien",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welcher Fluss hat das größte Einzugsgebiet der Welt?",
+          "info": "Der Amazonas entwässert ein Gebiet von etwa 7 Millionen Quadratkilometern.",
+          "answers": [
+            {
+              "answer": "Nil",
+              "correct": false
+            },
+            {
+              "answer": "Amazonas",
+              "correct": true
+            },
+            {
+              "answer": "Kongo",
+              "correct": false
+            },
+            {
+              "answer": "Mississippi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Wüste ist flächenmäßig die zweitgrößte der Welt?",
+          "info": "Die Antarktis ist die größte Wüste der Welt, während die Sahara die zweitgrößte ist.",
+          "answers": [
+            {
+              "answer": "Gobi",
+              "correct": false
+            },
+            {
+              "answer": "Sahara",
+              "correct": true
+            },
+            {
+              "answer": "Kalahari",
+              "correct": false
+            },
+            {
+              "answer": "Arabische Wüste",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welches ist das nördlichste bewohnte Gebiet der Erde?",
+          "info": "Alert in Kanada ist die nördlichste dauerhaft bewohnte Siedlung der Welt.",
+          "answers": [
+            {
+              "answer": "Longyearbyen, Norwegen",
+              "correct": false
+            },
+            {
+              "answer": "Alert, Kanada",
+              "correct": true
+            },
+            {
+              "answer": "Barrow, Alaska",
+              "correct": false
+            },
+            {
+              "answer": "Qaanaaq, Grönland",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welcher Berg ist der höchste, gemessen vom Fuß bis zur Spitze?",
+          "info": "Der Mauna Kea auf Hawaii ist vom Meeresgrund bis zur Spitze über 10.000 Meter hoch.",
+          "answers": [
+            {
+              "answer": "Mount Everest",
+              "correct": false
+            },
+            {
+              "answer": "Mauna Kea",
+              "correct": true
+            },
+            {
+              "answer": "K2",
+              "correct": false
+            },
+            {
+              "answer": "Denali",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "In welchem Land befindet sich das größte Korallenriff der Welt?",
+          "info": "Das Great Barrier Reef liegt vor der Küste Australiens und erstreckt sich über 2.300 Kilometer.",
+          "answers": [
+            {
+              "answer": "Philippinen",
+              "correct": false
+            },
+            {
+              "answer": "Australien",
+              "correct": true
+            },
+            {
+              "answer": "Indonesien",
+              "correct": false
+            },
+            {
+              "answer": "Fidschi",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welche Insel ist die größte Vulkaninsel der Welt?",
+          "info": "Island ist die größte Vulkaninsel der Welt und liegt auf dem Mittelatlantischen Rücken.",
+          "answers": [
+            {
+              "answer": "Hawaii",
+              "correct": false
+            },
+            {
+              "answer": "Island",
+              "correct": true
+            },
+            {
+              "answer": "Java",
+              "correct": false
+            },
+            {
+              "answer": "Sumatra",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welches Land hat die meisten aktiven Vulkane der Welt?",
+          "info": "Indonesien hat mehr als 130 aktive Vulkane und ist Teil des sogenannten „Pazifischen Feuerrings“.",
+          "answers": [
+            {
+              "answer": "Japan",
+              "correct": false
+            },
+            {
+              "answer": "Indonesien",
+              "correct": true
+            },
+            {
+              "answer": "Philippinen",
+              "correct": false
+            },
+            {
+              "answer": "Chile",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "question": "Welches ist der einzige Kontinent, der keine aktive Vulkanaktivität hat?",
+          "info": "Australien hat keine aktiven Vulkane, da es sich vollständig auf einer tektonischen Platte befindet.",
+          "answers": [
+            {
+              "answer": "Europa",
+              "correct": false
+            },
+            {
+              "answer": "Australien",
+              "correct": true
+            },
+            {
+              "answer": "Antarktis",
+              "correct": false
+            },
+            {
+              "answer": "Afrika",
+              "correct": false
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

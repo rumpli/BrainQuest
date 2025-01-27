@@ -1,0 +1,4 @@
+# exclude .env files for docker setup
+.env
+/tmp/
+/data/

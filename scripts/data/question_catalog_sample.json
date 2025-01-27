@@ -1,0 +1,632 @@
+[
+    {
+        "name": "Technik",
+        "description": "Fragen rund um Technik.",
+        "questions": {
+            "easy": [
+                {
+                    "question": "Welche Hauptstadt der Schweiz wurde 1848 offiziell festgelegt?",
+                    "info": "Obwohl Bern die Hauptstadt ist, gibt es keine explizite Verfassungsbestimmung, die dies festlegt. Es wurde 1848 zur Bundesstadt gewählt.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 1",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 1",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 1",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 1",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Welche Sehenswürdigkeit ist das Wahrzeichen von Bern?",
+                    "info": "Die Zytglogge, ein mittelalterlicher Uhrenturm, gilt als eines der bekanntesten Wahrzeichen der Stadt Bern.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 1",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 1",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 1",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 1",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Welche Sehenswürdigkeit ist das Wahrzeichen von Bern?",
+                    "info": "Die Zytglogge, ein mittelalterlicher Uhrenturm, gilt als eines der bekanntesten Wahrzeichen der Stadt Bern.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 1",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 1",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 1",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 1",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "medium": [
+                {
+                    "question": "In welchem Jahr wurde Bern gegründet?",
+                    "info": "Bern wurde 1191 von Herzog Berchtold V. von Zähringen gegründet. Eine Legende besagt, dass der Name auf einen erlegten Bären zurückgeht.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 1",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 1",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 1",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 1",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Welcher Fluss fließt durch Bern?",
+                    "info": "Die Aare, der längste Fluss der Schweiz, fließt durch Bern und prägt das Stadtbild wesentlich.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 1",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 1",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 1",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 1",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Welcher Fluss fließt durch Bern?",
+                    "info": "Die Aare, der längste Fluss der Schweiz, fließt durch Bern und prägt das Stadtbild wesentlich.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 1",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 1",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 1",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 1",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "hard": [
+                {
+                    "question": "Wie viele Bezirke hat der Kanton Bern?",
+                    "info": "Der Kanton Bern ist in 10 Verwaltungskreise unterteilt. Diese Struktur wurde 2010 eingeführt, um die Verwaltung effizienter zu gestalten.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 1",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 1",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 1",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 1",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Was ist die Einwohnerzahl von Bern?",
+                    "info": "Bern hat rund 133.000 Einwohner und ist damit nach Zürich, Genf und Basel die viertgrößte Stadt der Schweiz.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 1",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 1",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 1",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 1",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Was ist die Einwohnerzahl von Bern?",
+                    "info": "Bern hat rund 133.000 Einwohner und ist damit nach Zürich, Genf und Basel die viertgrößte Stadt der Schweiz.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 1",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 1",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 1",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 1",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sport",
+        "description": "Fragen rund um Sport.",
+        "questions": {
+            "easy": [
+                {
+                    "question": "Was ist das größte Säugetier im Amazonasgebiet?",
+                    "info": "Der Amazonas-Flussdelfin, auch bekannt als Boto, ist eines der größten Säugetiere im Amazonas und ein Symbol des Ökosystems.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 2",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 2",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 2",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 2",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Was ist der größte Baum des Amazonas?",
+                    "info": "Der Samaúma-Baum, auch als 'König des Amazonas' bekannt, kann eine Höhe von bis zu 60 Metern erreichen.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 2",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 2",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 2",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 2",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Was ist der größte Baum des Amazonas?",
+                    "info": "Der Samaúma-Baum, auch als 'König des Amazonas' bekannt, kann eine Höhe von bis zu 60 Metern erreichen.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 2",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 2",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 2",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 2",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "medium": [
+                {
+                    "question": "Wie viele Arten von Fischen leben im Amazonas?",
+                    "info": "Im Amazonas leben über 3000 Fischarten. Der Artenreichtum ist auf die enorme Vielfalt an Lebensräumen und die tropische Lage zurückzuführen.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 2",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 2",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 2",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 2",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Welche Rolle spielt der Amazonas für das globale Klima?",
+                    "info": "Der Amazonas gilt als 'Lunge der Erde', da er große Mengen CO2 bindet und Sauerstoff produziert.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 2",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 2",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 2",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 2",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Welche Rolle spielt der Amazonas für das globale Klima?",
+                    "info": "Der Amazonas gilt als 'Lunge der Erde', da er große Mengen CO2 bindet und Sauerstoff produziert.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 2",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 2",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 2",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 2",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "hard": [
+                {
+                    "question": "Welche Region des Amazonas ist am stärksten gefährdet?",
+                    "info": "Die südliche Amazonasregion ist aufgrund von Abholzung und landwirtschaftlicher Nutzung am stärksten gefährdet.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 2",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 2",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 2",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 2",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Welche Tierart ist einzigartig im Amazonasgebiet?",
+                    "info": "Der Jaguar ist eine der größten Raubkatzen der Welt und ein Symbol für die Artenvielfalt des Amazonas.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 2",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 2",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 2",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 2",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Welche Tierart ist einzigartig im Amazonasgebiet?",
+                    "info": "Der Jaguar ist eine der größten Raubkatzen der Welt und ein Symbol für die Artenvielfalt des Amazonas.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 2",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 2",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 2",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 2",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Mathematik",
+        "description": "Fragen rund um Mathematik.",
+        "questions": {
+            "easy": [
+                {
+                    "question": "Was ist der Wert der Zahl Pi bis zur zweiten Dezimalstelle?",
+                    "info": "Pi, oft als 3.14 abgekürzt, ist eine mathematische Konstante, die das Verhältnis von Kreisumfang zu Durchmesser beschreibt.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 3",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 3",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 3",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 3",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Wie lautet die Quadratwurzel von 16?",
+                    "info": "Die Quadratwurzel von 16 ist 4. Diese einfache mathematische Operation wird in der Algebra häufig verwendet.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 3",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 3",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 3",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 3",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Wie lautet die Quadratwurzel von 16?",
+                    "info": "Die Quadratwurzel von 16 ist 4. Diese einfache mathematische Operation wird in der Algebra häufig verwendet.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 3",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 3",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 3",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 3",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "medium": [
+                {
+                    "question": "Wer hat den Satz des Pythagoras formuliert?",
+                    "info": "Der Satz des Pythagoras wird dem griechischen Mathematiker Pythagoras zugeschrieben, der im 6. Jahrhundert v. Chr. lebte.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 3",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 3",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 3",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 3",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Was ist der Unterschied zwischen einer Prim- und einer Kompositzahl?",
+                    "info": "Primzahlen haben genau zwei Teiler (1 und sich selbst), während Kompositzahlen mehr als zwei Teiler haben.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 3",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 3",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 3",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 3",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Was ist der Unterschied zwischen einer Prim- und einer Kompositzahl?",
+                    "info": "Primzahlen haben genau zwei Teiler (1 und sich selbst), während Kompositzahlen mehr als zwei Teiler haben.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 3",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 3",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 3",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 3",
+                            "correct": false
+                        }
+                    ]
+                }
+            ],
+            "hard": [
+                {
+                    "question": "Wie lautet der Binomialkoeffizient von (n=5, k=2)?",
+                    "info": "Der Binomialkoeffizient ist Teil der Kombinatorik. Für n=5 und k=2 lautet er 10, was die Anzahl der Kombinationen angibt.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 3",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 3",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 3",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 3",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Was ist die Ableitung von x^2?",
+                    "info": "Die Ableitung von x^2 ist 2x. Ableitungen sind ein grundlegendes Konzept in der Differentialrechnung.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 3",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 3",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 3",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 3",
+                            "correct": false
+                        }
+                    ]
+                },
+                {
+                    "question": "Was ist die Ableitung von x^2?",
+                    "info": "Die Ableitung von x^2 ist 2x. Ableitungen sind ein grundlegendes Konzept in der Differentialrechnung.",
+                    "answers": [
+                        {
+                            "answer": "Answer 1 for Question 3",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 2 for Question 3",
+                            "correct": true
+                        },
+                        {
+                            "answer": "Answer 3 for Question 3",
+                            "correct": false
+                        },
+                        {
+                            "answer": "Answer 4 for Question 3",
+                            "correct": false
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]

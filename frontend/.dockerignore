@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+
+# Dependencies installed by npm
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Expo cache
+.expo/
+.expo-shared/
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+
+# Build output
+web-build/
+dist/
+build/
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# IDE or editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Test coverage files
+coverage/
+
+# Temporary or build directories
+tmp/
+temp/
+
+# Docker-related files (optional)
+Dockerfile*
+.dockerignore
+
