@@ -1,10 +1,8 @@
 # BrainQuest
 
 [![License](https://img.shields.io/badge/License-GPL--v3.0-lightgrey)](https://github.com/rumpli/BrainQuest/blob/main/LICENSE)
-![Code](https://img.shields.io/badge/Language-HTML-red)
 ![Code](https://img.shields.io/badge/Language-Java-brown)
 ![Code](https://img.shields.io/badge/Language-TypeScript-blue)
-![Code](https://img.shields.io/badge/Language-CSS-purple)
 ![Code](https://img.shields.io/badge/Language-JavaScript-yellow)
 ![Code](https://img.shields.io/badge/Language-Python-darkblue)
 -----
